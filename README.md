@@ -4,5 +4,6 @@ Building a and diagnosing a portfolio containing four stocks over a month. The a
 This project assumes a budget of $50 000 available and the stocks are bought at the closing price for 31 May 2026. This project is to demonstrate my skills and no real money is invested.
 
 # 
-Linear programming is used in Microsoft Excel to estimate the number of shares of each stock that must be bought. One key constraint used is that the portfolio must have atleast around 10 shares for each stock for diversifying.
+Linear programming is used in Microsoft Excel to estimate the number of shares of each stock that must be bought. One key constraint used is that the portfolio must have atleast 10 shares for each stock for diversifying the variance; without this contraint, the optimal solution was to not buy any Apple and Microsoft shares.
+#
 
